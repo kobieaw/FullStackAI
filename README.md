@@ -1,2 +1,2 @@
 # FullStackAI
-Proj that will display capabilities with AI agents, RAG, fastapi, react
+Proj that will display capabilities with AI agents, RAG, fastapi, react, next.js
